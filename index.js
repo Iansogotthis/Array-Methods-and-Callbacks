@@ -40,7 +40,7 @@ hint - you should be looking at the stage key inside of the objects
 function getFinals(array, item) {
   const newArray= array.filter(function(item){
     return item.Stage === "Final"}
-  }
+  
 }
 console.log(getFinals(fifaData))
 /* 🚀🚀🚀🚀🚀🚀🚀🚀🚀🚀 Task 3: 🚀🚀🚀🚀🚀🚀🚀🚀🚀🚀
